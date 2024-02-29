@@ -1,0 +1,2 @@
+How to access my S3 bucket through private ec-2 using VPC Gateway Endpoint for S3?
+-https://youtu.be/p749Gm9ub6c?si=F152P_ckbalkxH-Y
